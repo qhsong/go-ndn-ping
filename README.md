@@ -7,9 +7,9 @@ Welcome to folk it and use go-ndn to do your research.
 
 ## Install
 
-## Server Param
+## Server
 
-## Client Param
+## Client
 
 ##News
 
